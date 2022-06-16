@@ -1,3 +1,3 @@
 # StudySpace
 ## Repositório destinado a aprendizagem.
-### Todo conteúdo postado aqui sera de uso para aprendizagem e aperfeiçoamento.
+### Todo conteúdo postado aqui será de uso para aprendizagem e aperfeiçoamento.
